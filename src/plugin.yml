@@ -1,0 +1,10 @@
+main: me.tear.freeze.Main
+name: Freeze
+version: 1.5
+author: Tear
+api-version: 1.16
+
+commands:
+  Freeze:
+  Unfreeze:
+  Freeze-reload:
